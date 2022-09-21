@@ -3,23 +3,23 @@
       fullName: "Gaizka Jimenez Alvarez",
       profession: "Full Stack Dev 🧑‍💻", 
       currentlyBased: "Bilbao📍- España ",
-      spokenLanguages: ["español 🧉🥟", "english ☕💂"],
+      spokenLanguages: ["español", "english", "Basque", "Italian"],
+      LearningLanguages: ["German"],
       techStack: {
-        code: JavaScript,
+        code: PowerShell, HTML
         tools: {
-          frontEnd: [Angular, Redux, CSS, Material-UI, TailwindCSS],
-          backEnd: [PHP, Java],
+          frontEnd: [Javascript, React, Redux, CSS, Material-UI, Bootstrap],
+          backEnd: [PHP, Java, Python],
           databases: {
-            sql: MySQL,
+            sql: MySQL, Postgre,
             nosql: MongoDB
           },
           deployment: [Netifly],
-          versionControl: Git,
+          versionControl: Git,NPM
         },
       },
-      currentlyLearning: [Python, AWS, Solidity ],
-      ToDolist: [Socket, Firebase, GraphQL, 
-         Docker],
+      currentlyLearning: [Solidity, AWS, Docker ],
+      ToDolist: [Socket, Firebase, GraphQL ],
     };
     
 
